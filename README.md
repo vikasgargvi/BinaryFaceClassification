@@ -1,4 +1,2 @@
 # BinaryFaceClassification
-This works good for two image classification programme
-works good on static data
-frequent switches during webcam, can be improved greatly
+Neural network based application for detecting faces and predicting the outcome between two classes of images(faces).
